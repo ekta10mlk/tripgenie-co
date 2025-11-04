@@ -32,7 +32,7 @@ const Navigation = ({ session }: NavigationProps) => {
           <Link to="/" className="flex items-center gap-2 group">
             <Plane className="h-6 w-6 text-primary group-hover:text-accent transition-colors" />
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              AI Trip Planner
+              Roamly
             </span>
           </Link>
 

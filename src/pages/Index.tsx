@@ -68,7 +68,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4 mb-16">
             <h2 className="text-4xl md:text-5xl font-bold">
-              Why Choose AI Trip Planner?
+              Why Choose Roamly?
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               We combine cutting-edge AI with travel expertise to create your perfect journey
@@ -137,7 +137,7 @@ const Index = () => {
             Ready for Your Next Adventure?
           </h2>
           <p className="text-xl text-white/90 max-w-2xl mx-auto">
-            Join thousands of travelers who trust AI Trip Planner for their journeys
+            Join thousands of travelers who trust Roamly for their journeys
           </p>
           <Link to={session ? "/dashboard" : "/auth"}>
             <Button variant="secondary" size="lg" className="text-lg px-8 py-6">
@@ -150,7 +150,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-8 border-t border-border bg-background">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p>© 2025 AI Trip Planner. Built with Lovable.</p>
+          <p>© 2025 Roamly. Built with Lovable.</p>
         </div>
       </footer>
     </div>

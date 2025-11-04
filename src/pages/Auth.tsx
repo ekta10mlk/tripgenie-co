@@ -109,7 +109,7 @@ const Auth = () => {
             <Plane className="h-12 w-12 text-primary" />
           </div>
           <CardTitle className="text-3xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            AI Trip Planner
+            Roamly
           </CardTitle>
           <CardDescription>
             Plan your perfect adventure with AI-powered itineraries

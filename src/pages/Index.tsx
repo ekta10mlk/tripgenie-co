@@ -150,7 +150,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-8 border-t border-border bg-background">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p>© 2025 Roamly. Built with Lovable.</p>
+          <p>© 2025 Roamly</p>
         </div>
       </footer>
     </div>
